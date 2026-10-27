@@ -1,0 +1,15 @@
+{
+  "background_color": "#74d45b",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "pitrukrupa deskboard",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "pkd",
+  "start_url": "/",
+  "theme_color": "#c18787",
+  "id": "pitrukrupa deskboard",
+  "categories": [
+    "utilities"
+  ]
+}
